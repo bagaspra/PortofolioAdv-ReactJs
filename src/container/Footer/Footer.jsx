@@ -95,7 +95,7 @@ const Footer = () => {
         </div>
       ) : (
         <div>
-          <h3 className="head-text">Terima kasih sudah menghubungi saya!</h3>
+          <h3 className="head-text">Terima Kasih Sudah Menghubungi Saya!</h3>
         </div>
       )}
     </>
